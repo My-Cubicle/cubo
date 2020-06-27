@@ -3,31 +3,31 @@
  @font-face {
      font-family: 'Quicksand';
      font-weight: 100;
-     src: url(./fonts/Quicksand-Light.ttf);
+     src: url(./Quicksand-Light.ttf);
  }
  
  @font-face {
      font-family: 'Quicksand';
      font-weight: 400;
-     src: url(./fonts/Quicksand-Regular.ttf);
+     src: url(./Quicksand-Regular.ttf);
  }
  
  @font-face {
      font-family: 'Quicksand';
      font-weight: 500;
-     src: url(./fonts/Quicksand-Medium.ttf);
+     src: url(./Quicksand-Medium.ttf);
  }
  
  @font-face {
      font-family: 'Quicksand';
      font-weight: 700;
-     src: url(./fonts/Quicksand-SemiBold.ttf);
+     src: url(./Quicksand-SemiBold.ttf);
  }
  
  @font-face {
      font-family: 'Quicksand';
      font-weight: 900;
-     src: url(./fonts/Quicksand-Bold.ttf);
+     src: url(./Quicksand-Bold.ttf);
  }
  
  :root {
@@ -205,7 +205,7 @@
      padding: 50px;
      height: 85vh;
      text-align: center;
-     background-image: url(./asset/back-hero.jpg);
+     background-image: url(./back-hero.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      margin-bottom: 50px;
@@ -284,7 +284,7 @@
      width: 200px;
      height: 200px;
      margin: 20px 10px;
-     background-image: url(./asset/teams/boy-avatar.png);
+     background-image: url(./boy-avatar.png);
      background-size: 100% 130%;
      background-repeat: no-repeat;
      background-position-y: 10%;
@@ -298,7 +298,7 @@
  }
  
  .member:last-child {
-     background-image: url(./asset/teams/girl-avatar.png);
+     background-image: url(./girl-avatar.png);
  }
  
  .description {
